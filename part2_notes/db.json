@@ -1,0 +1,139 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "4",
+      "content": "a new note",
+      "important": false
+    },
+    {
+      "id": "5",
+      "content": "321",
+      "important": false
+    },
+    {
+      "id": "6",
+      "content": "Why hello there my friend",
+      "important": false
+    },
+    {
+      "id": "7",
+      "content": "123",
+      "important": false
+    },
+    {
+      "id": "8",
+      "content": "a new note",
+      "important": false
+    },
+    {
+      "id": "ae24",
+      "content": "Yo wasup",
+      "important": false
+    },
+    {
+      "id": "2e3d",
+      "content": "nah bro",
+      "important": false
+    },
+    {
+      "id": "1a02",
+      "content": "nah bro",
+      "important": true
+    },
+    {
+      "id": "b9d4",
+      "content": "yo",
+      "important": true
+    },
+    {
+      "id": "c859",
+      "content": "wasup",
+      "important": false
+    },
+    {
+      "id": "0b32",
+      "content": "wasup",
+      "important": false
+    },
+    {
+      "id": "4251",
+      "content": "wasup",
+      "important": false
+    },
+    {
+      "id": "e5a9",
+      "content": "wasup",
+      "important": false
+    },
+    {
+      "id": "71fd",
+      "content": "wasup",
+      "important": false
+    },
+    {
+      "id": "8d35",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "aedf",
+      "content": "as",
+      "important": false
+    },
+    {
+      "id": "0f0e",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "2ee9",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "8e4c",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "148a",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "5a6d",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "e270",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "a32e",
+      "content": "sa",
+      "important": false
+    },
+    {
+      "id": "50d4",
+      "content": "sa",
+      "important": false
+    }
+  ]
+}
